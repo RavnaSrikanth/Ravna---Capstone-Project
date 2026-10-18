@@ -6,9 +6,48 @@
 
 <h1 align="center">DataCo Supply Chain Analytics Dataset</h1>
 
-This repository contains a transactional dataset capturing retail sales performance for consumer electronics products throughout the first half of **2026**. The data includes granular details on order parameters, product categories, geographic regions, salesperson mapping, and promotional discounts.
+This repository contains a comprehensive supply chain dataset that captures end-to-end order fulfillment activities across customers, products, orders, payments, shipping operations, and global markets. The dataset supports business analytics, supply chain optimization, logistics performance evaluation, customer behavior analysis, profitability reporting, and predictive analytics.
 
-It serves as an excellent resource for exploratory data analysis (EDA), sales performance forecasting, regional market analysis, and missing data imputation practice.
+It serves as an excellent resource for Exploratory Data Analysis (EDA), supply chain performance analysis, customer segmentation, delivery risk prediction, logistics optimization, and machine learning applications in business operations
+
+Research Objectives
+Objective 1: Customer Analysis
+
+To analyze customer characteristics, purchasing patterns, and market segments to understand their relationship with order volume, delivery performance, and sales outcomes.
+
+Objective 2: Product and Category Performance Analysis
+
+To evaluate the sales and profitability performance of products, categories, and departments and identify high-performing and low-performing product groups.
+
+Objective 3: Order Fulfillment Analysis
+
+To examine order processing and fulfillment performance by analyzing order status, delivery status, and order completion trends.
+
+Objective 4: Shipping Performance Analysis
+
+To assess shipping efficiency by comparing actual shipping times with scheduled shipping times and identifying factors contributing to late deliveries.
+
+Objective 5: Geographic and Market Analysis
+
+To investigate variations in sales performance, profitability, and delivery outcomes across different countries, regions, cities, and markets.
+
+Objective 6: Payment Method Analysis
+
+To analyze payment method usage and determine whether payment types are associated with differences in order characteristics and delivery performance.
+
+Objective 7: Profitability Analysis
+
+To evaluate the impact of discounts, product pricing, order quantities, and shipping performance on overall profitability.
+
+Objective 8: Late-Delivery Risk Prediction
+
+To develop predictive models that identify orders with a high risk of late delivery using customer, product, order, shipping, payment, and geographic factors.
+
+Objective 9: Business Recommendation Development
+
+To provide data-driven recommendations that improve supply chain efficiency, reduce delivery delays, enhance profitability, and increase customer satisfaction.
+
+
 
 <img width="1317" height="742" alt="image" src="https://github.com/user-attachments/assets/fd2d0b2f-b7d0-4953-8c8b-868132c2485a" />
 
