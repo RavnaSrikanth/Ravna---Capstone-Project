@@ -1,10 +1,10 @@
-# Electronics Retail Sales Dataset 📊
+# DataCo Supply Chain Analytics Dataset📊
 
 <p align="center">
  <img width="266" height="205" alt="image_1e16842e_edited" src="https://github.com/user-attachments/assets/699034ae-2410-4f06-ae9d-66dd5003594f" />
 </p>
 
-<h1 align="center">Electronics Retail Sales Dataset</h1>
+<h1 align="center">DataCo Supply Chain Analytics Dataset</h1>
 
 This repository contains a transactional dataset capturing retail sales performance for consumer electronics products throughout the first half of **2026**. The data includes granular details on order parameters, product categories, geographic regions, salesperson mapping, and promotional discounts.
 
